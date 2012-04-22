@@ -82,7 +82,7 @@ $messages['bs'] = array(
  * @author Purodha
  */
 $messages['de'] = array(
-	'pipeescape-desc' => 'Ergänzt die Parserfunktion <code>#!</code>, die als versteckter Parametertrenner genutzt werden kann',
+	'pipeescape-desc' => 'Ergänzt die Funktion <code>#!</code>, die als versteckter Parametertrenner genutzt werden kann',
 );
 
 /** Lower Sorbian (Dolnoserbski)
@@ -242,6 +242,13 @@ $messages['ms'] = array(
 	'pipeescape-desc' => 'Fungsi penghurai <code>#!</code> supaya aksara paip kekal sekadar aksara paip tanpa fungsi khas',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Nghtwlkr
+ */
+$messages['nb'] = array(
+	'pipeescape-desc' => 'Tolkefunksjonen <code>#!</code> som lar «|»-tegnet bare være et «|»-tegn',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
@@ -254,13 +261,6 @@ $messages['nl'] = array(
  */
 $messages['nn'] = array(
 	'pipeescape-desc' => 'Tolkefunksjon <code>#!</code> som lèt «|»-teiknet vera berre eit «|»-teikn.',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Nghtwlkr
- */
-$messages['nb'] = array(
-	'pipeescape-desc' => 'Tolkefunksjonen <code>#!</code> som lar «|»-tegnet bare være et «|»-tegn',
 );
 
 /** Occitan (Occitan)
