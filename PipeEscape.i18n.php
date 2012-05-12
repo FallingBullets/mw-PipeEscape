@@ -258,6 +258,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'pipeescape-desc' => 'Tolkefunksjon <code>#!</code> som lèt «|»-teiknet vera berre eit «|»-teikn.',
