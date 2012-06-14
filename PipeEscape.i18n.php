@@ -49,7 +49,7 @@ $messages['ar'] = array(
 	'pipeescape-desc' => 'دالة محلل <code>#!</code> لعندما تريد حرف أنبوبة ليكون فقط حرف أنبوبة',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -63,14 +63,14 @@ $messages['be-tarask'] = array(
 	'pipeescape-desc' => 'Функцыя парсэра <code>#!</code>, якая сочыць, каб калі Вы жадаеце дадаць сымбаль «|», дадаваліся толькі сымбаль «|».',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'pipeescape-desc' => 'Arc\'hwel parser <code>#!</code> evit ensoc\'hañ arouezenn ur varrenn sonn "|" evel un arouezenn barrenn sonn hepmuiken',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -99,21 +99,21 @@ $messages['el'] = array(
 	'pipeescape-desc' => 'Λεξιαναλυτική συνάρτηση <code>#!</code> για όταν θέλετε ένας χαρακτήρας pipe να είναι απλά ένας χαρακτήρας pipe',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Sanbec
  */
 $messages['es'] = array(
 	'pipeescape-desc' => 'Función del analizador sintáctico <code>#!</code> para insertar el carácter de barra vertical «|» como tal carácter y sin significado especial,',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
 	'pipeescape-desc' => '<code>#!</code> parser funtzioa, karaktere hori zehazki karaktere hori izan dadila nahi duzunerako',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  */
@@ -121,7 +121,7 @@ $messages['fi'] = array(
 	'pipeescape-desc' => 'Jäsentimen toiminto <code>#!</code>, kun haluat putkimerkin olevan vain putkimerkki.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Grondin
  * @author Urhixidur
  */
@@ -164,14 +164,14 @@ $messages['hsb'] = array(
 	'pipeescape-desc' => 'Parserowa funkcija <code>#!</code>, jeli chceš znamješko | schować (znamješko | ma so jenož předstajić, bjez wosebiteje funkcije)',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
 	'pipeescape-desc' => '<code>#!</code> elemzőfüggvény, hogy szükség esetén a függőleges vonal (pipe) karaktert ne értelmezze speciálisan az elemző',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -185,7 +185,7 @@ $messages['id'] = array(
 	'pipeescape-desc' => 'Fungsi parser <code>#!</code> jika Anda menginginkan karakter pipa sebagaimana adanya',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Civvì
  */
 $messages['it'] = array(
@@ -228,7 +228,7 @@ $messages['lb'] = array(
 	'pipeescape-desc' => 'Parserfonctioun <code>#!</code> fir den Trenn-Parameter als normale Buchstaw ze benotzen',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -256,7 +256,7 @@ $messages['nl'] = array(
 	'pipeescape-desc' => 'Parserfunctie <code>#!</code> om een pipe-karakter gewoon een pipe-karakter te laten zijn',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -264,14 +264,14 @@ $messages['nn'] = array(
 	'pipeescape-desc' => 'Tolkefunksjon <code>#!</code> som lèt «|»-teiknet vera berre eit «|»-teikn.',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
 	'pipeescape-desc' => 'Foncion parser <code>#!</code> per inserir lo caractèr pipe en tant que caractèr simple.',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -285,7 +285,7 @@ $messages['pms'] = array(
 	'pipeescape-desc' => 'Fonsion dël parser <code>#!</code> për quand it veule che un caràter "pipe" a sia mach un caràter "pipe"',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  */
@@ -293,47 +293,47 @@ $messages['pt'] = array(
 	'pipeescape-desc' => 'Função do analisador sintáctico <code>#!</code> para quando se pretende que uma barra vertical ("pipe") seja apenas uma barra vertical.',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'pipeescape-desc' => 'Função do analisador (parser) <code>#!</code> para quando se pretende que um caractere barra vertical ("pipe") seja apenas um caractere barra vertical.',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'pipeescape-desc' => "Funziona d'analisi <code>#!</code> pe quanne tu vuè ca 'nu carattere de ''pipe'' avène conziderate cumme a 'nu ''pipe''",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
 	'pipeescape-desc' => 'Функция парсера <code>#!</code> предназначена для случаев, когда вы хотите использовать символ вертикальной черты просто как символ',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'pipeescape-desc' => 'Funkciu syntaktického analyzátora <code>#!</code> použijete vtedy, keď chcete, aby bol znak rúry iba znakom rúry',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'pipeescape-desc' => "Парсерска функција <code>#!</code> за случајеве када пајп-карактер ('|') треба да буде само то.",
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'pipeescape-desc' => "Parserska funkcija <code>#!</code> za slučajeve kada pajp-karakter ('|') treba da bude samo to.",
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Najami
  */
 $messages['sv'] = array(
@@ -354,7 +354,7 @@ $messages['tr'] = array(
 	'pipeescape-desc' => 'Bir boru karakterinin sadece bir boru karakteri olmasını istediğiniz zamanlar için ayrıştırıcı fonksiyon <code>#!</code>',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
