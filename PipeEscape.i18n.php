@@ -56,7 +56,7 @@ $messages['ast'] = array(
 	'pipeescape-desc' => "Función del analizador sintácticu <code>#!</code> pa cuando se quier que'l caráuter de barra vertical «|» nun tenga significáu especial",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -85,7 +85,7 @@ $messages['de'] = array(
 	'pipeescape-desc' => 'Ergänzt die Funktion <code>#!</code>, die als versteckter Parametertrenner genutzt werden kann',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -129,7 +129,7 @@ $messages['fr'] = array(
 	'pipeescape-desc' => 'Fonction de l’analyseur syntaxique <code>#!</code> pour insérer une barre verticale non-interprétée.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -157,7 +157,7 @@ $messages['hil'] = array(
 	'pipeescape-desc' => 'Parser panksiyon <code>#!</code> para kada kilanlan nimo sang karakter tubo para mangin isa ka karakter tubo',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
