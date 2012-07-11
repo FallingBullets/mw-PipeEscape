@@ -242,7 +242,7 @@ $messages['ms'] = array(
 	'pipeescape-desc' => 'Fungsi penghurai <code>#!</code> supaya aksara paip kekal sekadar aksara paip tanpa fungsi khas',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
