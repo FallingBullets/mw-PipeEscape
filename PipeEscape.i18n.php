@@ -56,7 +56,7 @@ $messages['ast'] = array(
 	'pipeescape-desc' => "Función del analizador sintácticu <code>#!</code> pa cuando se quier que'l caráuter de barra vertical «|» nun tenga significáu especial",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -242,7 +242,7 @@ $messages['ms'] = array(
 	'pipeescape-desc' => 'Fungsi penghurai <code>#!</code> supaya aksara paip kekal sekadar aksara paip tanpa fungsi khas',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -256,7 +256,7 @@ $messages['nl'] = array(
 	'pipeescape-desc' => 'Parserfunctie <code>#!</code> om een pipe-karakter gewoon een pipe-karakter te laten zijn',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -321,14 +321,14 @@ $messages['sk'] = array(
 	'pipeescape-desc' => 'Funkciu syntaktického analyzátora <code>#!</code> použijete vtedy, keď chcete, aby bol znak rúry iba znakom rúry',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'pipeescape-desc' => "Парсерска функција <code>#!</code> за случајеве када пајп-карактер ('|') треба да буде само то.",
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'pipeescape-desc' => "Parserska funkcija <code>#!</code> za slučajeve kada pajp-karakter ('|') treba da bude samo to.",
 );
