@@ -40,7 +40,10 @@ $wgExtensionMessagesFiles['PipeEscapeMagic'] = $dir . 'PipeEscape.i18n.magic.php
 class ExtPipeEsc
 {
 	const VERSION = '0.1.1';
-	private static $parserFunctions = array('!' => 'pipeChar');
+	private static $parserFunctions = array(
+			'!' => 'identity',
+			'?' => 'slicer'
+		);
 
 	public static function setup( &$parser )
 	{
@@ -51,7 +54,7 @@ class ExtPipeEsc
 		return true;
 	}
 
-	public static function pipeChar( &$parser, $frame, $args )
+	public static function identity( &$parser, $frame, $args )
 	{
 		$output = array_shift( $args );
 		// no parameters means we're done.  spit out an empty string
@@ -69,5 +72,21 @@ class ExtPipeEsc
 		}
 		//return '<pre><nowiki>'. trim( $output ) . '</nowiki></pre>';
 		return trim( $output );
+	}
+
+	public static function slicer( &$parser, $frame, $args )
+	{
+		$len = $args[0];
+		// no parameters means we're done.  spit out an empty string
+		if ( !isset( $len ) )
+			return '';
+		// expand the first argument
+		$len = intval($frame->expand( $len ));
+		$out = array();
+		for ( $i = 1; $i <= $len; $i++ )
+		{
+			$out[] = isset( $args[$i] )?$frame->expand( $args[$i] ):'';
+		}
+		return implode('|',$out);
 	}
 }

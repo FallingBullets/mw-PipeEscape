@@ -7,4 +7,5 @@ $magicWords = array();
 
 $magicWords['en'] = array(
 	'!' => array( 0, '!' ),
+	'?' => array( 0, '?' )
 );
